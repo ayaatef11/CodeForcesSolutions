@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a756929d-eb13-4c4b-9f2f-40ad64aa3401" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/BuildingRooms/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/BuildingRooms/.idea/BuildingRooms.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/BuildingRooms/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/BuildingRooms/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/BuildingRooms/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/BuildingRooms/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/BuildingRooms/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ClosedIslands/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ClosedIslands/.idea/ClosedIslands.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ClosedIslands/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ClosedIslands/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ClosedIslands/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ClosedIslands/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ClosedIslands/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/CriticalConnections/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/CriticalConnections/.idea/CriticalConnections.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/CriticalConnections/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/CriticalConnections/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/CriticalConnections/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/CriticalConnections/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/CriticalConnections/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/CycleFreeFlow/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/CycleFreeFlow/.idea/CycleFreeFlow.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/CycleFreeFlow/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/CycleFreeFlow/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/CycleFreeFlow/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/CycleFreeFlow/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/CycleFreeFlow/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/DdistanceKBinaryTree/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/DdistanceKBinaryTree/.idea/DdistanceKBinaryTree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/DdistanceKBinaryTree/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/DdistanceKBinaryTree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/DdistanceKBinaryTree/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/DdistanceKBinaryTree/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/DdistanceKBinaryTree/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Dungeon/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Dungeon/.idea/Dungeon.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Dungeon/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Dungeon/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Dungeon/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Dungeon/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Dungeon/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/HexaDecimalNumbers/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/HexaDecimalNumbers/.idea/HexaDecimalNumbers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/HexaDecimalNumbers/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/HexaDecimalNumbers/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/HexaDecimalNumbers/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/HexaDecimalNumbers/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/HexaDecimalNumbers/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ISITATREE/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ISITATREE/.idea/ISITATREE.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ISITATREE/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ISITATREE/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ISITATREE/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ISITATREE/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ISITATREE/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/InformAllEmployees/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/InformAllEmployees/.idea/InformAllEmployees.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/InformAllEmployees/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/InformAllEmployees/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/InformAllEmployees/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/InformAllEmployees/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/InformAllEmployees/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NQueens/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NQueens/.idea/NQueens.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NQueens/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NQueens/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NQueens/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NQueens/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NQueens/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NubianMarket/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NubianMarket/.idea/NubianMarket.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NubianMarket/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NubianMarket/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NubianMarket/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NubianMarket/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NubianMarket/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NumberOfPathsInGrid/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NumberOfPathsInGrid/.idea/NumberOfPathsInGrid.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NumberOfPathsInGrid/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NumberOfPathsInGrid/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NumberOfPathsInGrid/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NumberOfPathsInGrid/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NumberOfPathsInGrid/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NumberofProvinces/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NumberofProvinces/.idea/NumberofProvinces.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NumberofProvinces/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NumberofProvinces/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NumberofProvinces/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NumberofProvinces/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/NumberofProvinces/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/PacficAtlantic/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/PacficAtlantic/.idea/PacficAtlantic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/PacficAtlantic/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/PacficAtlantic/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/PacficAtlantic/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/PacficAtlantic/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/PacficAtlantic/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Pairs/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Pairs/.idea/Pairs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Pairs/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Pairs/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Pairs/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Pairs/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Pairs/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/PathsFromSourceToTarget/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/PathsFromSourceToTarget/.idea/PathsFromSourceToTarget.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/PathsFromSourceToTarget/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/PathsFromSourceToTarget/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/PathsFromSourceToTarget/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/PathsFromSourceToTarget/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/PathsFromSourceToTarget/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Peas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Peas/.idea/Peas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Peas/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Peas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Peas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Peas/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Peas/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Provinces/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Provinces/.idea/Provinces.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Provinces/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Provinces/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Provinces/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Provinces/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Provinces/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/RoadConstruction/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/RoadConstruction/.idea/RoadConstruction.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/RoadConstruction/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/RoadConstruction/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/RoadConstruction/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/RoadConstruction/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/RoadConstruction/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Rumor/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Rumor/.idea/Rumor.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Rumor/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Rumor/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Rumor/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Rumor/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/Rumor/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ShortestPathWithAlternatingColors/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ShortestPathWithAlternatingColors/.idea/ShortestPathWithAlternatingColors.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ShortestPathWithAlternatingColors/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ShortestPathWithAlternatingColors/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ShortestPathWithAlternatingColors/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ShortestPathWithAlternatingColors/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ShortestPathWithAlternatingColors/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/checkGraphIsTree/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/checkGraphIsTree/.idea/checkGraphIsTree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/checkGraphIsTree/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/checkGraphIsTree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/checkGraphIsTree/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/checkGraphIsTree/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/checkGraphIsTree/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/countingRoads/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/countingRoads/.idea/countingRoads.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/countingRoads/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/countingRoads/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/countingRoads/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/countingRoads/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/countingRoads/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/countingRooms/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/countingRooms/.idea/countingRooms.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/countingRooms/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/countingRooms/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/countingRooms/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/countingRooms/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/countingRooms/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/enclaves/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/enclaves/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/enclaves/.idea/enclaves.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/enclaves/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/enclaves/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/enclaves/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/enclaves/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/friends/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/friends/.idea/friends.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/friends/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/friends/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/friends/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/friends/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/friends/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ibartileGraph/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ibartileGraph/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ibartileGraph/.idea/ibartileGraph.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ibartileGraph/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ibartileGraph/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ibartileGraph/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/ibartileGraph/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/itIsTree/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/itIsTree/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/itIsTree/.idea/itIsTree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/itIsTree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/itIsTree/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/itIsTree/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/itIsTree/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/keysAndRoojs/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/keysAndRoojs/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/keysAndRoojs/.idea/keysAndRoojs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/keysAndRoojs/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/keysAndRoojs/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/keysAndRoojs/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/keysAndRoojs/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/maxAreaOfIsland/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/maxAreaOfIsland/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/maxAreaOfIsland/.idea/maxAreaOfIsland.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/maxAreaOfIsland/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/maxAreaOfIsland/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/maxAreaOfIsland/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/maxAreaOfIsland/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/minimumGeneticMutation/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/minimumGeneticMutation/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/minimumGeneticMutation/.idea/minimumGeneticMutation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/minimumGeneticMutation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/minimumGeneticMutation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/minimumGeneticMutation/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/minimumGeneticMutation/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/networkToplogy/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/networkToplogy/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/networkToplogy/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/networkToplogy/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/networkToplogy/.idea/networkToplogy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/networkToplogy/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/networkToplogy/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/numberOfIslandes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/numberOfIslandes/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/numberOfIslandes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/numberOfIslandes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/numberOfIslandes/.idea/numberOfIslandes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/numberOfIslandes/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/numberOfIslandes/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/optimalSubsequences/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/optimalSubsequences/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/optimalSubsequences/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/optimalSubsequences/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/optimalSubsequences/.idea/optimalSubsequences.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/optimalSubsequences/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/optimalSubsequences/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/pacficWaterFlow/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/pacficWaterFlow/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/pacficWaterFlow/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/pacficWaterFlow/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/pacficWaterFlow/.idea/pacficWaterFlow.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/pacficWaterFlow/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/pacficWaterFlow/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/pacficWaterFlow/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/pacficWaterFlow/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/reachAllNodes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/reachAllNodes/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/reachAllNodes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/reachAllNodes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/reachAllNodes/.idea/reachAllNodes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/reachAllNodes/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/reachAllNodes/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/shortestBridge/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/shortestBridge/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/shortestBridge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/shortestBridge/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/shortestBridge/.idea/shortestBridge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/shortestBridge/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/shortestBridge/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/shortestPath/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/shortestPath/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/shortestPath/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/shortestPath/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/shortestPath/.idea/shortestPath.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/shortestPath/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/shortestPath/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/zahranColoring/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/zahranColoring/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/zahranColoring/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/zahranColoring/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/zahranColoring/.idea/zahranColoring.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/zahranColoring/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graph_Problems/zahranColoring/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/3nSeries/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/3nSeries/.idea/3nSeries.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/3nSeries/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/3nSeries/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/3nSeries/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/3nSeries/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/3nSeries/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/AGoodString/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/AGoodString/.idea/AGoodString.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/AGoodString/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/AGoodString/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/AGoodString/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/AGoodString/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/AGoodString/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/AppleDivision/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/AppleDivision/.idea/AppleDivision.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/AppleDivision/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/AppleDivision/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/AppleDivision/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/AppleDivision/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/AppleDivision/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/BacktrackingProblem/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/BacktrackingProblem/.idea/BacktrackingProblem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/BacktrackingProblem/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/BacktrackingProblem/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/BacktrackingProblem/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/BacktrackingProblem/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/BacktrackingProblem/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/ChessboardAndQueens/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/ChessboardAndQueens/.idea/ChessboardAndQueens.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/ChessboardAndQueens/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/ChessboardAndQueens/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/ChessboardAndQueens/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/ChessboardAndQueens/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/ChessboardAndQueens/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/ConstructingArray/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/ConstructingArray/.idea/ConstructingArray.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/ConstructingArray/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/ConstructingArray/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/ConstructingArray/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/ConstructingArray/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/ConstructingArray/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/CreativeSnap/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/CreativeSnap/.idea/CreativeSnap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/CreativeSnap/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/CreativeSnap/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/CreativeSnap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/CreativeSnap/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/CreativeSnap/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/DreamoonWithWifi/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/DreamoonWithWifi/.idea/DreamoonWithWifi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/DreamoonWithWifi/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/DreamoonWithWifi/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/DreamoonWithWifi/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/DreamoonWithWifi/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/DreamoonWithWifi/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/GettingGold/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/GettingGold/.idea/GettingGold.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/GettingGold/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/GettingGold/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/GettingGold/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/GettingGold/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/GettingGold/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/HelloRecursion/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/HelloRecursion/.idea/HelloRecursion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/HelloRecursion/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/HelloRecursion/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/HelloRecursion/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/HelloRecursion/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/HelloRecursion/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/LCS/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/LCS/.idea/LCS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/LCS/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/LCS/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/LCS/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/LCS/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/LCS/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/PreparingOlympiad/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/PreparingOlympiad/.idea/PreparingOlympiad.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/PreparingOlympiad/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/PreparingOlympiad/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/PreparingOlympiad/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/PreparingOlympiad/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/PreparingOlympiad/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/RecursiveFunction/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/RecursiveFunction/.idea/RecursiveFunction.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/RecursiveFunction/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/RecursiveFunction/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/RecursiveFunction/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/RecursiveFunction/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/RecursiveFunction/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/TavasAndSaddas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/TavasAndSaddas/.idea/TavasAndSaddas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/TavasAndSaddas/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/TavasAndSaddas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/TavasAndSaddas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/TavasAndSaddas/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/TavasAndSaddas/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/ThanosSort/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/ThanosSort/.idea/ThanosSort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/ThanosSort/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/ThanosSort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/ThanosSort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/ThanosSort/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/ThanosSort/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/WeiredAlgorithm/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/WeiredAlgorithm/.idea/WeiredAlgorithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/WeiredAlgorithm/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/WeiredAlgorithm/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/WeiredAlgorithm/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/WeiredAlgorithm/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/WeiredAlgorithm/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/comme/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/comme/.idea/comme.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/comme/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/comme/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/comme/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/comme/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/comme/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/creatingString/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/creatingString/.idea/creatingString.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/creatingString/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/creatingString/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/creatingString/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/creatingString/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/creatingString/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/editDistance/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/editDistance/.idea/editDistance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/editDistance/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/editDistance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/editDistance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/editDistance/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/editDistance/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/frog1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/frog1/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/frog1/.idea/frog1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/frog1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/frog1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/frog1/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/frog1/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/frog2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/frog2/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/frog2/.idea/frog2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/frog2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/frog2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/frog2/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/frog2/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/goldRush/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/goldRush/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/goldRush/.idea/goldRush.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/goldRush/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/goldRush/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/goldRush/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/goldRush/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/goodMorning/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/goodMorning/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/goodMorning/.idea/goodMorning.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/goodMorning/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/goodMorning/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/goodMorning/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/goodMorning/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/goodString/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/goodString/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/goodString/.idea/goodString.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/goodString/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/goodString/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/goodString/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/goodString/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/knapsack/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/knapsack/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/knapsack/.idea/knapsack.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/knapsack/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/knapsack/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/knapsack/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/knapsack/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/longestArithmatic/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/longestArithmatic/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/longestArithmatic/.idea/longestArithmatic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/longestArithmatic/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/longestArithmatic/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/longestArithmatic/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/longestArithmatic/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/max/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/max/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/max/.idea/max.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/max/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/max/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/max/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/max/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/maximalSquare/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/maximalSquare/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/maximalSquare/.idea/maximalSquare.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/maximalSquare/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/maximalSquare/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/maximalSquare/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/maximalSquare/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/minFalliingPath/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/minFalliingPath/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/minFalliingPath/.idea/minFalliingPath.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/minFalliingPath/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/minFalliingPath/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/minFalliingPath/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/minFalliingPath/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/skillup/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/skillup/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/skillup/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/skillup/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/skillup/.idea/skillup.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/skillup/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/skillup/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/subsets/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/subsets/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/subsets/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/subsets/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/subsets/.idea/subsets.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/subsets/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/subsets/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/sumItUp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/sumItUp/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/sumItUp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/sumItUp/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/sumItUp/.idea/sumItUp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/sumItUp/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/sumItUp/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/thanosssort/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/thanosssort/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/thanosssort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/thanosssort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/thanosssort/.idea/thanosssort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/thanosssort/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/thanosssort/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/towers/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/towers/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/towers/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/towers/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/towers/.idea/towers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/towers/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/towers/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/vacation/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/vacation/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/vacation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/vacation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/vacation/.idea/vacation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/vacation/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/vacation/main.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../G - Subsets/main.cpp" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2025" />
+    <option name="minorVersion" value="2.1" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="39NoJlDOBQiKWKv2ThXHLeyTrbw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "G:/PS/CodeForcesSolutions/Level 2/E - Thanos Sort/main.cpp",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a756929d-eb13-4c4b-9f2f-40ad64aa3401" name="Changes" comment="" />
+      <created>1770545819293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770545819293</updated>
+      <workItem from="1770545820665" duration="263000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>
