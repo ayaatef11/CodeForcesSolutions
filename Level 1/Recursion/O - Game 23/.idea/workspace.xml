@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="219cbe03-a4ed-4758-a435-2e3099989c06" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../A - Hello Recursion/.idea/A - Hello Recursion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A - Hello Recursion/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A - Hello Recursion/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B - Fedor and New Game/.idea/B - Fedor and New Game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../B - Fedor and New Game/.idea/B - Fedor and New Game.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitsAndBitMasking/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../BitsAndBitMasking/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C - Little Girl and Maximum XOR/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../C - Little Girl and Maximum XOR/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chessboard and Queens/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chessboard and Queens/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chessboard and Queens/.idea/Chessboard and Queens.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chessboard and Queens/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chessboard and Queens/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chessboard and Queens/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chessboard and Queens/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chessboard and Queens/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chessboard and Queens/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D - Tavas and SaDDas/.idea/D - Tavas and SaDDas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../D - Tavas and SaDDas/.idea/D - Tavas and SaDDas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E - MAX-MEX Cut/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../E - MAX-MEX Cut/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F - Maximal AND/.idea/F - Maximal AND.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../F - Maximal AND/.idea/F - Maximal AND.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F - Maximal AND/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../F - Maximal AND/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P - Sum It Up/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P - Sum It Up/.idea/P - Sum It Up.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P - Sum It Up/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P - Sum It Up/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P - Sum It Up/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P - Sum It Up/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P - Sum It Up/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Private Training/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Private Training/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Private Training/.idea/Private Training.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Private Training/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Private Training/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Private Training/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Private Training/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Private Training/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Private Training/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sudoko_Problem/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sudoko_Problem/.idea/Sudoko_Problem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sudoko_Problem/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sudoko_Problem/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sudoko_Problem/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sudoko_Problem/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sudoko_Problem/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sudoko_Problem/main.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="39S0pdMj74dQUQsdcXiYcSJ8nQD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="O - Game 23" TARGET_NAME="main.cpp" CONFIG_NAME="main.cpp">
+      <option name="sourceFile" value="main.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="219cbe03-a4ed-4758-a435-2e3099989c06" name="Changes" comment="" />
+      <created>1770674349119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770674349119</updated>
+      <workItem from="1770674350285" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

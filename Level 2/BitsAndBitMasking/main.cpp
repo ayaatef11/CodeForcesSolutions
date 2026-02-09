@@ -3,6 +3,39 @@ using namespace std;
 bool checkBit(int x,int pos) {
     return (x>>pos)&1;
 }
+int findMSB(int x){
+   x |= x>>1;
+   x |= x>>2;
+   x |= x>>4;
+   x |= x>>8;
+   x |= x>>16;
+   x = x+1;
+   return(x >> 1);
+}
+//covert binary to integar -->   auto integer = 0b0110110;
+
+int findsubsetXOR (int set[], int size){//i am not sure yet about it
+    if (size == 1){
+        return set[size - 1];
+    }
+    else
+        return 0;
+}
+//chceck number is power of 2
+int isPowerof2(int n){
+    return n && (!(n&(n-1)));
+}
+// Direct XOR of all numbers from 1 to n
+
+int findXORuptoN(int n){
+    switch( n%4){
+        case 0: return n;
+        case 1: return 1;
+        case 2: return n+1;
+        case 3: return 0;
+        default: break;
+    }
+}
 void MaximumAnd() {
     int n,k;cin>>n>>k;
     vector<int> a(n);
