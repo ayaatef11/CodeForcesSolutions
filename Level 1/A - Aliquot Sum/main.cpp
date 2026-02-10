@@ -1,7 +1,8 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 #define ln '\n'
 #define ll long long
+const int MAXN = 1e6;
 ll getDivisorsSum(int n) {
     if (n==1)return 0;//take care of this
     ll sum =1;
@@ -14,12 +15,21 @@ ll getDivisorsSum(int n) {
     }
     return sum;
 }
-
+vector<ll>nums(MAXN+1,0);
+void getDivisorsVii() {
+for (int i = 1; i <= MAXN/2; i++) {
+    for (int j=i*2;j<=MAXN;j+=i) {
+        nums[j]+=i;
+    }
+}
+}
 int main() {
+    getDivisorsVii();
 int t;cin>>t;
     while (t--) {
         int x;cin>>x;
-        ll result = getDivisorsSum(x);
+        ll result=nums[x];
+        // ll result = getDivisorsSum(x);
         if (result == x) cout<<"perfect"<<ln;
        else if (result < x) cout<<"deficient"<<ln;
         else cout<<"abundant"<<ln;
