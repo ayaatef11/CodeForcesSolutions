@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="S___Integer_Factorization__15_digits_" targetName="S___Integer_Factorization__15_digits_" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5513df1e-549d-4dc0-b177-b8e2bc90141a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Number_Theory/E - Dima and Lisa/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number_Theory/E - Dima and Lisa/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number_Theory/E - Dima and Lisa/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number_Theory/E - Dima and Lisa/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A - Aliquot Sum/.idea/A - Aliquot Sum.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A - Aliquot Sum/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A - Aliquot Sum/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C - k-th divisor/.idea/C - k-th divisor.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C - k-th divisor/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C - k-th divisor/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D - Almost Prime/.idea/D - Almost Prime.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D - Almost Prime/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D - Almost Prime/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E - Dima and Lisa/.idea/E - Dima and Lisa.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E - Dima and Lisa/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E - Dima and Lisa/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F - Noldbach problem/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F - Noldbach problem/.idea/F - Noldbach problem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F - Noldbach problem/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F - Noldbach problem/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F - Noldbach problem/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F - Noldbach problem/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F - Noldbach problem/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F - Noldbach problem/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G - T-primes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G - T-primes/.idea/G - T-primes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G - T-primes/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G - T-primes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G - T-primes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G - T-primes/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G - T-primes/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G - T-primes/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H - Different Divisors/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H - Different Divisors/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H - Different Divisors/.idea/H - Different Divisors.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H - Different Divisors/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H - Different Divisors/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H - Different Divisors/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H - Different Divisors/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H - Different Divisors/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H - Different Divisors/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../I - k-Factorization/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../I - k-Factorization/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../I - k-Factorization/.idea/I - k-Factorization.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../I - k-Factorization/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../I - k-Factorization/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../I - k-Factorization/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../I - k-Factorization/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../I - k-Factorization/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../I - k-Factorization/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../I - k-Factorization/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../J - Fedya and Maths/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../J - Fedya and Maths/.idea/J - Fedya and Maths.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../J - Fedya and Maths/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../J - Fedya and Maths/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../J - Fedya and Maths/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../J - Fedya and Maths/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../J - Fedya and Maths/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K - Prime Matrix/.idea/K - Prime Matrix.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K - Prime Matrix/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K - Prime Matrix/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L - Simple Subset/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L - Simple Subset/.idea/L - Simple Subset.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L - Simple Subset/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L - Simple Subset/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L - Simple Subset/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L - Simple Subset/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L - Simple Subset/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M - Counting Divisors/.idea/M - Counting Divisors.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M - Counting Divisors/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M - Counting Divisors/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Level 2/Sessions/lecture 9 Number theory/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Level 2/Sessions/lecture 9 Number theory/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Level 2/Sessions/lecture 9 Number theory/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Level 2/Sessions/lecture 9 Number theory/.idea/lecture 9 Number theory.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Level 2/Sessions/lecture 9 Number theory/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Level 2/Sessions/lecture 9 Number theory/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Level 2/Sessions/lecture 9 Number theory/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Level 2/Sessions/lecture 9 Number theory/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Level 2/Sessions/lecture 9 Number theory/main.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2025" />
+    <option name="minorVersion" value="2.1" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="39XgVb99XFGi5gDnRh8uvHpL7Yr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "G:/PS/CodeForcesSolutions/Level 1/S - Integer Factorization (15 digits)/main.cpp",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="S___Integer_Factorization__15_digits_" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="S___Integer_Factorization__15_digits_" TARGET_NAME="S___Integer_Factorization__15_digits_" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="S___Integer_Factorization__15_digits_" RUN_TARGET_NAME="S___Integer_Factorization__15_digits_">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5513df1e-549d-4dc0-b177-b8e2bc90141a" name="Changes" comment="" />
+      <created>1770847853693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770847853693</updated>
+      <workItem from="1770847855163" duration="63000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
