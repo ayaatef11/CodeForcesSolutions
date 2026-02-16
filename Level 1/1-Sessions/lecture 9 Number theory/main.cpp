@@ -198,6 +198,17 @@ void getNumberOfDivisorsForNPowerM() {
     }
     cout << answer << "\n";
 }
+void segemetedSieveNoPreGen(long long l,long long r){
+    for(long long i=2;i*i<=r;i++){
+        for(long long j=max(i*i,(l+i-1)/i*i);j<=r;j+=i){
+            {
+                composite[j-l]=true;
+            }
+        }
+
+    }
+    if(l==1)composite[0]=true;
+}
 
 void gen_divisors_rec(int idx,int cur,const vector<pair<int,int>>& fac,  vector<ll>& out) {
     if (idx == (int)fac.size()) {
