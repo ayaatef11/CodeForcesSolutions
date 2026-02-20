@@ -1,13 +1,14 @@
+//link : https://codeforces.com/group/isP4JMZTix/contest/405745/problem/C
 #include <bits/stdc++.h>
-using  namespace std;
+using namespace std;
 #define ll long long
 #define ln '\n'
-const int MAXN=1e6+4;
 void fast() {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
-}
 
+}
 int main() {
+
 
 }
